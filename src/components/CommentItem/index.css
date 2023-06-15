@@ -1,0 +1,124 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+
+.bgContainer2 {
+  width: 100%;
+  padding: 0px;
+}
+
+.nameTimeContainer {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.firstLetter {
+  width: 20px;
+  color: #ffffff;
+  border-radius: 50px;
+  text-align: center;
+}
+
+.userName {
+  text-align: left;
+  font-family: Roboto;
+  font-size: 15px;
+  color: #334155;
+  padding-left: 14px;
+}
+
+.commentTime {
+  text-align: left;
+  font-family: Roboto;
+  font-size: 10px;
+  color: #7e858e;
+  padding-left: 14px;
+}
+
+.userComment {
+  text-align: left;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #334155;
+  padding-left: 34px;
+}
+
+.likeDeleteContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.likeLogoContainer {
+  width: 60%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.likeButton {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.likeIcon {
+  height: 25px #7e858e;
+}
+
+.likeText {
+  text-align: left;
+  font-family: Roboto;
+  font-size: 13px;
+}
+
+.likeColor {
+  color: #0ea5e9;
+}
+
+.noLikeColor {
+  color: #7e858e;
+}
+
+.deleteButton {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.deleteIcon {
+  width: 20px;
+  height: 20px;
+}
+
+.hrLine {
+  width: 100%;
+}
